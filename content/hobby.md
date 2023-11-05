@@ -5,4 +5,12 @@ Description: Page about my hobby
 
 # Min hobby
 
-Jag har sedan innan jag kunde gå sprungit orientering. Det är en härlig sport ute i skogen med utmaningar för både kropp och knopp.
+<img src="../portfolio/assets/img/oldtown.jpg" alt="Oldtowns" width="600">
+
+<img src="../portfolio/assets/img/nature.jpg" alt="Nature" width="400">
+
+###
+
+<img src="../portfolio/assets/img/panda.jpg" alt="Panda toy" width="600">
+
+<img src="../portfolio/assets/img/bunny.jpg" alt="Bunny toy" width="600">

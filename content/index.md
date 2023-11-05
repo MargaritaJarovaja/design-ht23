@@ -18,3 +18,5 @@ Jag tror på ordning och reda, men det finns alltid undantag.
 Jag älskar att lösa problem, jag älskar tillräckliga tidsramar, men jag kan inte fokusera om jag inte har tid.
 Jag älskar naturen, men jag föredrar att titta på den under bekväma förhållanden.
 Jag är också en dansare och en mästare på designerdockor.
+
+<img src="../portfolio/assets/img/me.jpg" alt="Описание изображения" width="800">
