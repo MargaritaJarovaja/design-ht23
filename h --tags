@@ -1,0 +1,70 @@
+[33mtag v1.0.0[m
+Tagger: MargaritaJarovaja <nord.ferro@gmail.com>
+Date:   Sun Nov 5 21:25:43 2023 +0100
+
+New theme connection, content changes
+
+[33mcommit 80e500923c09267b32cd37720d6c382000f419e9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v1.0.0[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: MargaritaJarovaja <nord.ferro@gmail.com>
+Date:   Sun Nov 5 21:20:39 2023 +0100
+
+    Add images
+
+[1mdiff --git a/assets/img/bunny.jpg b/assets/img/bunny.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..be6809a[m
+Binary files /dev/null and b/assets/img/bunny.jpg differ
+[1mdiff --git a/assets/img/fox-icon-png-54-256x256.png:Zone.Identifier b/assets/img/fox-icon-png-54-256x256.png:Zone.Identifier[m
+[1mdeleted file mode 100644[m
+[1mindex ced2bce..0000000[m
+[1m--- a/assets/img/fox-icon-png-54-256x256.png:Zone.Identifier[m
+[1m+++ /dev/null[m
+[36m@@ -1,4 +0,0 @@[m
+[31m-[ZoneTransfer][m
+[31m-ZoneId=3[m
+[31m-ReferrerUrl=http://getdrawings.com/get-icon[m
+[31m-HostUrl=http://getdrawings.com/downloadsize/free-icon/fox-icon-png-54.png/3666033/256[m
+[1mdiff --git a/assets/img/me.jpg b/assets/img/me.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b92b86c[m
+Binary files /dev/null and b/assets/img/me.jpg differ
+[1mdiff --git a/assets/img/nature.jpg b/assets/img/nature.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3095303[m
+Binary files /dev/null and b/assets/img/nature.jpg differ
+[1mdiff --git a/assets/img/oldtown.jpg b/assets/img/oldtown.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..1ab17e4[m
+Binary files /dev/null and b/assets/img/oldtown.jpg differ
+[1mdiff --git a/assets/img/panda.jpg b/assets/img/panda.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..bc670b1[m
+Binary files /dev/null and b/assets/img/panda.jpg differ
+[1mdiff --git a/content/hobby.md b/content/hobby.md[m
+[1mindex 7bc1e57..12698dd 100644[m
+[1m--- a/content/hobby.md[m
+[1m+++ b/content/hobby.md[m
+[36m@@ -5,4 +5,12 @@[m [mDescription: Page about my hobby[m
+ [m
+ # Min hobby[m
+ [m
+[31m-Jag har sedan innan jag kunde gå sprungit orientering. Det är en härlig sport ute i skogen med utmaningar för både kropp och knopp.[m
+[32m+[m[32m<img src="../portfolio/assets/img/oldtown.jpg" alt="Oldtowns" width="600">[m
+[32m+[m
+[32m+[m[32m<img src="../portfolio/assets/img/nature.jpg" alt="Nature" width="400">[m
+[32m+[m
+[32m+[m[32m###[m
+[32m+[m
+[32m+[m[32m<img src="../portfolio/assets/img/panda.jpg" alt="Panda toy" width="600">[m
+[32m+[m
+[32m+[m[32m<img src="../portfolio/assets/img/bunny.jpg" alt="Bunny toy" width="600">[m
+[1mdiff --git a/content/index.md b/content/index.md[m
+[1mindex dbae1db..219d16b 100644[m
+[1m--- a/content/index.md[m
+[1m+++ b/content/index.md[m
+[36m@@ -18,3 +18,5 @@[m [mJag tror på ordning och reda, men det finns alltid undantag.[m
+ Jag älskar att lösa problem, jag älskar tillräckliga tidsramar, men jag kan inte fokusera om jag inte har tid.[m
+ Jag älskar naturen, men jag föredrar att titta på den under bekväma förhållanden.[m
+ Jag är också en dansare och en mästare på designerdockor.[m
+[32m+[m
+[32m+[m[32m<img src="../portfolio/assets/img/me.jpg" alt="Описание изображения" width="800">[m

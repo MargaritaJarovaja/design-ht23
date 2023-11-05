@@ -19,4 +19,4 @@ Jag älskar att lösa problem, jag älskar tillräckliga tidsramar, men jag kan 
 Jag älskar naturen, men jag föredrar att titta på den under bekväma förhållanden.
 Jag är också en dansare och en mästare på designerdockor.
 
-<img src="../portfolio/assets/img/me.jpg" alt="Описание изображения" width="800">
+<img src="../portfolio/assets/img/me.jpg" alt="Me image" width="800">
